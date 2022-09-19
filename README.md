@@ -16,16 +16,23 @@
 <img alt="Python" src="https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python"/>
 
 <div align=center>
-💻 Other Tech I know:
+💻 Other Tech I Work With:
 <br>
 <img alt="POSTGRESQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql"/>
 <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb"/>
 <img alt="JS" src="https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js"/>
 <img alt="React" src="https://img.shields.io/badge/-React-3b2e5a?style=plastic&logo=react"/>
+<img style="height: auto; width: 10%;" alt="React" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+<img style="height: auto; width: 7%;" alt="React" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+
 
 <img alt="HTML" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3"/>
+<img style="height: auto; width: 12%;" alt="Styled Comp" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+
+<img style="height: auto; width: 8%;" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>
+
 
 <img alt="expres" src="https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS"/>
 </div>
@@ -36,6 +43,11 @@
 <br>
 <img alt="GIT" src="https://img.shields.io/badge/-Git-black?style=plastic&logo=git"/>
 <img alt="VSCode" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code"/>
+<img style="height: auto; width: 8%;" alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img style="height: auto; width: 8%;" alt="Sublime" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
+
+
+
 </div>
 
 </p>
